@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema3", "Tema3\Tema3.csproj", "{B3368E67-3F74-4857-A6F3-E9FB3E9F8777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tema3.1", "Tema3.1\Tema3.1.csproj", "{1D18AD34-174F-46AD-880F-D9ABEE2789A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3368E67-3F74-4857-A6F3-E9FB3E9F8777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3368E67-3F74-4857-A6F3-E9FB3E9F8777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3368E67-3F74-4857-A6F3-E9FB3E9F8777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3368E67-3F74-4857-A6F3-E9FB3E9F8777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D18AD34-174F-46AD-880F-D9ABEE2789A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D18AD34-174F-46AD-880F-D9ABEE2789A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D18AD34-174F-46AD-880F-D9ABEE2789A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D18AD34-174F-46AD-880F-D9ABEE2789A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89876CA4-48D7-4192-8E14-3B7276882EB0}
+	EndGlobalSection
+EndGlobal
